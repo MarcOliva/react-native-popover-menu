@@ -1,13 +1,14 @@
-
 {
   "name": "react-native-popover-menu",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "React Native: Native Popover Menu",
   "main": "js/RNPopoverMenu.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["react-native"],
+  "keywords": [
+    "react-native"
+  ],
   "author": "Pranav Raj Singh Chauhan",
   "license": "Apache License",
   "repository": {
@@ -15,9 +16,9 @@
     "url": "https://github.com/prscX/react-native-popover-menu.git"
   },
   "dependencies": {
+    "deprecated-react-native-prop-types": "^2.3.0"
   },
   "devDependencies": {
     "prettier-pack": "0.0.11"
-  },
-  "peerDependencies": {}
+  }
 }
